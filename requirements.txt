@@ -7,15 +7,4 @@ flask-sqlalchemy
 flask-jwt-extended
 passlib
 flask-migrate
-Werkzeug
-markupsafe
-click
-blinker
-colorama
-apispec
-itsdangerous
-jinja2
-mako
-packaging
-webargs
-wheel
+gunicorn
