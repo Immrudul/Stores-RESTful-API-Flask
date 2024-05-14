@@ -13,7 +13,6 @@ click
 blinker
 colorama
 apispec
-dotenv
 itsdangerous
 jinja2
 mako
