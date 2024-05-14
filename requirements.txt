@@ -10,3 +10,4 @@ flask-migrate
 Werkzeug
 markupsafe
 click
+blinker
