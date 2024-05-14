@@ -1,4 +1,4 @@
-flask
+flask<3
 flask-smorest
 python-dotenv
 marshmallow
@@ -7,4 +7,7 @@ flask-sqlalchemy
 flask-jwt-extended
 passlib
 flask-migrate
+<<<<<<< HEAD
 gunicorn
+=======
+>>>>>>> 0cdc6b03b65a7a7f9ac952dc707746408fbf494a
