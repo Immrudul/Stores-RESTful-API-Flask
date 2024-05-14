@@ -17,3 +17,5 @@ itsdangerous
 jinja2
 mako
 packaging
+webargs
+wheel
